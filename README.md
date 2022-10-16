@@ -1,8 +1,9 @@
-### Hi there 👋
-name : Kim Sanghun(김상훈)
-email : ksanghun10@gmail.com
-intertested in : frontend developing
+### About Me
 
+* name : Kim Sanghun(김상훈)
+* email : ksanghun10@gmail.com
+* intertested in : frontend developing
+---
 
 - 🔭 I’m currently working on 
   - BoostCamp MemberShip Web 7th (~20221215)
