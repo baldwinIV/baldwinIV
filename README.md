@@ -2,7 +2,7 @@
 
 * name : Kim Sanghun(김상훈)
 * email : ksanghun10@gmail.com
-* intertested in : frontend developing
+* intertested in : frontend development, data visualization, web assembly
 ---
 
 - 🔭 I’m currently working on 
