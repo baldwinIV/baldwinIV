@@ -22,8 +22,7 @@
 - ⚡ why is your ID "baldwinIV": 
     - impressed by the charactor `King baldwinIV`(also saladin, but this id is already taken by someone.. :( ) in the movie `Kingdom of Heaven`
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baldwinIV)](https://github.com/baldwinIV/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksanghun10)](https://solved.ac/ksanghun10)
-
+![baldwinIV's Stats](https://github-readme-stats.vercel.app/api?username=baldwinIV&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+![baldwinIV's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baldwinIV&theme=onedark&hide_border=false)
+![baldwinIV's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baldwinIV&theme=onedark&show_icons=true&hide_border=false&layout=compact)
