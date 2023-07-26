@@ -4,15 +4,14 @@
 
 * name : Kim Sanghun(김상훈)
 * email : ksanghun10@gmail.com
-* intertested in : frontend development, data visualization, web assembly
+* my interests : frontend development, data visualization, web assembly
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ---
 
-- 🔭 I’m currently working on 
+- 🔭 I have worked here..
   - BoostCamp MemberShip Web 7th (~20221215)
   - Shinhan Bank (20230710~)
-- 🌱 I’m currently learning 
+- 🌱 I’m currently interested in..
   - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
