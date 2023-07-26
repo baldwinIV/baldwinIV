@@ -1,4 +1,4 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=BaldwinIV&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Kim%20Sanghun&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=BaldwinIV&fontAlignY=45&fontSize=40&height=150&desc=Kim%20Sanghun&descAlignY=70)
 
 hun
 ### About Me
